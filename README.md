@@ -1,6 +1,9 @@
 
 ### Hi there 👋
+My name is Justin Castillo, but you can call me **JustinCast**. 
+I describe myself as a **Blockchain Application Engineer**. I am a person who always is searching the latest and most stable technologies to include in my stack and even create new ones.
 
+*I really want a world where every opinion and decision counts, that is the reason why I love decentralization and blockchain :heartpulse:*
 ## Technologies :computer:
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=3859D9)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=3859D9)
@@ -20,3 +23,10 @@
 | | |
 |----------|:-------------:|
 | ![JustinCast stats](https://github-readme-stats.vercel.app/api?username=JustinCast&theme=material-palenight&count_private=true&show_icons=true) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinCast&layout=compact&theme=material-palenight)](https://github.com/JustinCast) |
+
+## Social
+![Twitter Follow](https://img.shields.io/twitter/follow/_JustinCast?label=Twitter)
+<br />
+<a href="https://www.linkedin.com/in/jacv/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+</a>
