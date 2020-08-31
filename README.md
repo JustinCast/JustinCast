@@ -1,4 +1,4 @@
-![JustinCast stats](https://github-readme-stats.vercel.app/api?username=JustinCast&theme=solarized-light&count_private=true&show_icons=true)
+
 ### Hi there 👋
 
 ## Technologies :computer:
@@ -14,24 +14,11 @@
 ![](https://img.shields.io/badge/CSS-ThemeUI-informational?style=flat&logo=ThemeUI&logoColor=white&color=E60EFE)
 ![](https://img.shields.io/badge/CSS-MaterialUI-informational?style=flat&logo=material-ui&logoColor=white&color=E60EFE)
 ![](https://img.shields.io/badge/CSS-AngularMaterial-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=E60EFE)
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=71FE0E)
-![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=71FE0E)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=D98D38)
+![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=D98D38)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinCast&layout=compact)](https://github.com/JustinCast)
+## Some stats
 
-
-
-<!--
-**JustinCast/JustinCast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| | |
+|----------|:-------------:|
+| ![JustinCast stats](https://github-readme-stats.vercel.app/api?username=JustinCast&theme=material-palenight&count_private=true&show_icons=true) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinCast&layout=compact)](https://github.com/JustinCast) |
