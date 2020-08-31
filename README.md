@@ -17,8 +17,6 @@
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=D98D38)
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=D98D38)
 
-## Some stats
-
 | | |
 |----------|:-------------:|
 | ![JustinCast stats](https://github-readme-stats.vercel.app/api?username=JustinCast&theme=material-palenight&count_private=true&show_icons=true) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinCast&layout=compact&theme=material-palenight)](https://github.com/JustinCast) |
