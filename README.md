@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 My name is Justin Castillo, and I'm very passionate about Bitcoin, EOS, Ethereum, Binance Smart Chain and blockchain technology in general. 
-I describe myself as a **Blockchain Application Engineer** and I committed to continue in this field for a long time.
+I describe myself as a **Blockchain Application Engineer** and I'm committed to continue in this field for a long time.
 
 ## Professional Experience 👨🏻‍💻
 
@@ -50,7 +50,7 @@ I describe myself as a **Blockchain Application Engineer** and I committed to co
 - EOSIO
 - Kubernetes
 - Linux usage
-
+- Documenting 📚
 ## Special and Unusual Experiences
 - I have taught other devs about Web Development, databases like PostgresSQL and many other technologies.
 - I have contributed in a hackathon and [we got the 2nd place](https://youtu.be/2jB0Nzw21h0).
