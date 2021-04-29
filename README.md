@@ -26,7 +26,7 @@ I describe myself as a **Blockchain Application Engineer** and I'm committed to 
 
 #### Key Features💡
 1. Internal economy.
-2. Uses blockchain technology to leverage the solution and allow a seamless interaction.
+2. Uses blockchain technology to empower security, traceability and immutability.
 
 #### Tech Stack ⚒
 1. [eosio](https://eos.io/)
