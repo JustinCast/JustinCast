@@ -9,7 +9,7 @@ I describe myself as a **Blockchain Application Engineer** and I'm committed to 
 *gGoods is an open-source NFT standard that lets communities create tokens for crowdfunding. The platform connects non-profit organizations and charitable causes to their supporters worldwide.*
 #### Key Features 💡
 1. A sandbox Paypal payment integration that allows entities to receive funds for selling NFTs in the platform.
-2. dGoods Smart Contract Standard implementation.
+2. [dGoods NFT Standard](https://dgoods.org/) implementation.
 3. NFTs portability and immersive experience; NFTs can be used to play games in the platform.
 
 #### Tech Stack ⚒
