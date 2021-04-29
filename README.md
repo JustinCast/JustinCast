@@ -1,6 +1,6 @@
 
 ## Hi there 👋
-My name is Justin Castillo, and I'm very passionate about Bitcoin, EOS, Ethereum, Binance Smart Chain and blockchain technology in general. 
+My name is Justin Castillo, and I'm very passionate about [Bitcoin](https://bitcoin.org/en/), [EOS](http://www.eoscommunity.org/), [Ethereum](https://ethereum.org/en/), [Binance Smart Chain](https://www.binance.org/en/smartChain) and blockchain technology in general. 
 I describe myself as a **Blockchain Application Engineer** and I'm committed to continue in this field for a long time.
 
 ## Professional Experience 👨🏻‍💻
