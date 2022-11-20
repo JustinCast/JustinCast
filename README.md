@@ -52,21 +52,6 @@ I describe myself as a **Blockchain Application Engineer** and I'm committed to 
 - Linux
 - Documenting 📚
 
-### Hackathons
-#### [gGoods](https://ggoods.io/) 🧩
-*gGoods is an open-source NFT standard built upon the [EOSIO](https://eos.io/) technology that lets communities create tokens for crowdfunding. The platform connects non-profit organizations and charitable causes to their supporters worldwide.*
-##### Key Features 💡
-1. A sandbox Paypal payment integration that allows entities to receive funds for selling NFTs in the platform.
-2. [dGoods NFT Standard](https://dgoods.org/) implementation.
-3. NFTs portability and immersive experience; NFTs can be used to play games in the platform.
-
-#### [Lifebank](https://lifebank.io/) 🩸
-*Lifebank helps local communities create a virtuous blood donation circle of value exchange between three parties — an eligible donor, a donation center and a sponsor.*
-
-##### Key Features 💡
-1. Internal economy.
-2. Uses blockchain technology to empower security, traceability and immutability.
-
 <hr />
 
 <p align="center" style="font-size: 10em">
