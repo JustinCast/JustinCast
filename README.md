@@ -1,56 +1,36 @@
 
 ## Hi there 👋
 My name is Justin Castillo, and I'm very passionate about [Ethereum](https://ethereum.org/en/) and blockchain technology in general. 
-I describe myself as a **Blockchain Application Engineer** and I'm committed to continue in this field for a long time.
+I describe myself as a **Blockchain Engineer** and I'm committed to continue in this field for a long time.
 
 ## Professional Experience 👨🏻‍💻
 
-### Live projects 🚀
-#### [IQ Network](https://everipedia.org/iq) 🧠
-*Platform enhances the utility of the IQ token.*
+### Live projects 
+#### [iq.wiki](https://iq.wiki/)
+*Start your crypto journey with IQ.wiki! The compass for exploring your web3 curiosities.*
 ##### Key Features 💡
-- Stake IQ tokens and get a yield calculated on a 4 years period
-- Bridge the IQ token from the EOS network to Ethereum
-- Present importants stats for the tokens holders
-- Vote for the open proposals of the IQ ecosystem (uses [snapshot.org](https://snapshot.org) under the hood)
+- Explore hundreds of categorized wikis and learn everything about the crypto world
+- Create crypto wikis using your metamask wallet
 
-### Speaks 📹
-#### [Interacting with the Ethereum Ecosystem from the Frontend | Web3CR Community](https://youtu.be/VrW-aQB3Zic?list=PLMZmrSfGobOnGSEpEP07M0H9ubkzBSL3s)
-🔖 | Virtual meetup
-
-📆 | 09/02/2022
-> Workshop covering the basics of interacting with the Ethereum Blockchain, using libraries like:
-1. web3.js
-2. ethers
-3. typechain
-4. eth-sdk
-5. wagmi
-
-#### [Intro to Ethereum Network | Elemental Guild](https://youtu.be/axjq7BshrKw?list=PLMZmrSfGobOnGSEpEP07M0H9ubkzBSL3s)
-🔖 | Virtual meetup
-
-📆 | 13/10/2021
-> Gave an Introduction to the Ethereum Blockchain, covering topics like:
-1. Accounts types in the network
-2. Fields of a common transaction
-3. How the information in the network can be queried via the different types of Ethereum nodes
+#### [IQ Dashboard](https://iq.braindao.org/)
+*IQ token dashboard.*
+##### Key Features 💡
+- Bridge IQ from EOS to ETH and viceversa
+- Stake IQ to get rewards
+- BrainDAO treasury displaying
 
 #### Technologies 👾
 ##### High Proeficiency 🚀
+- Solidity
+- Foundry
+- ethers
+- wagmi
+- Typechain
 - React.js
 - Node.js
-- ethers
-- Typechain
-- eth-sdk
 - Hardhat
-- JavaScript
 - TypeScript
 - GraphQL
-
-##### I'm Also Good At 💆🏻‍♂️
-- Solidity (actually learning)
-- Linux
-- Documenting 📚
 
 <hr />
 
@@ -59,5 +39,6 @@ I describe myself as a **Blockchain Application Engineer** and I'm committed to 
 </p>
 <p align="center">
   <a href="https://twitter.com/_JustinCast"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" width="40" height="40"/></a>
-  <a href="https://www.linkedin.com/in/jacv/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/jacv/"><img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="40" height="40"/></a>
+  <a href="https://iq.wiki/wiki/justin-castillo"><img src="https://pbs.twimg.com/profile_images/1579839264388304896/63oK-luW_400x400.jpg" width="40" height="40"/></a>
 </p>
