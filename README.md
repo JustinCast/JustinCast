@@ -40,5 +40,5 @@ I describe myself as a **Blockchain Engineer** and I'm committed to continue in 
 <p align="center">
   <a href="https://twitter.com/_JustinCast"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" width="40" height="40"/></a>
   <a href="https://www.linkedin.com/in/jacv/"><img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="40" height="40"/></a>
-  <a href="https://iq.wiki/wiki/justin-castillo"><img src="https://pbs.twimg.com/profile_images/1579839264388304896/63oK-luW_400x400.jpg" width="40" height="40"/></a>
+  <a href="https://iq.wiki/wiki/justin-castillo">🧠</a>
 </p>
